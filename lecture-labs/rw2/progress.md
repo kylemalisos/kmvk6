@@ -1,0 +1,3 @@
+## Kyle Malisos Progress on rw2
+
+I was successfully able to create the database augure but one issue I had today was setting up the schema's for this database. I accidentally created it under the postgresql database instead of augur. This caused some errors later on but I was able to go back and correct this error by redoing the schema commands in the augur database. Then I copied the code to make all of the tables for augur. I didn't have any other issues today besides this. Now I have a fully operaional augur database with tables.
