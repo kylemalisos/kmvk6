@@ -1,9 +1,10 @@
 # Kyle Malisos - CS4830 Fall '19 - Tuesday Week 3 Lab
 
 ## Requirements for newspaper photographic manager application
-( first person - making the original document )
+( Second Person - Revising Requirements )
 
 **Stakeholders** - photographers, editors, journalists and journalism companies (CNN, NBC, FOX, etc)
+
 **Users** - photographers, editors, journalists, system admins
 
 ## System Requirements
